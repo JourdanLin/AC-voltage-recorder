@@ -1,3 +1,3 @@
-- **The purpose is to record the three-phase voltage values:**
+- **使用Arduino相關的控制模組和交流採集模塊,收集電壓值,並將其圖示化,結果如下:**
 
-**Use Arduino and AC voltage, current, and power single-phase and three-phase power parameter acquisition module RS485 to record the voltage values ​​and store them in the SD card.**
+![Result-Sample](https://github.com/user-attachments/assets/a83a1e0b-a9ec-4cc8-a9c6-5eeed8f5e3b6)
