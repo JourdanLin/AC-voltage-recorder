@@ -2,4 +2,4 @@
 
 ![Result-Sample](https://github.com/user-attachments/assets/a83a1e0b-a9ec-4cc8-a9c6-5eeed8f5e3b6)
 
-- **項目使用的相關模組與元件請參考BomPicture內 
+- **項目使用的相關模組與元件請參考BomPicture內** 
