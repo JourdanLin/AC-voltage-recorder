@@ -2,5 +2,5 @@
 
 ![Result-Sample](https://github.com/user-attachments/assets/a83a1e0b-a9ec-4cc8-a9c6-5eeed8f5e3b6)
 
-- ### 項目使用的相關模組與元件請參考BomPicture內 ArduinoCode for Mega2560
+- ### 項目使用的相關模組與元件請參考BomPicture內 ArduinoCode for Mega2560 (https://github.com/JourdanLin/ComMonitor/tree/2bf0a32ec30a7a59695011f203a120077992d991/ArduinoCode%20for%20Mega2560)
 - ### 使用的相關語言程式請參考相對的folder內 ArduinoCode for Mega2560 , Vb.net code - it's for Mdoule time adjust and file list review. (windows base),PythonCode Draw Voltage Data
