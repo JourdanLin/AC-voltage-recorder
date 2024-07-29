@@ -2,7 +2,7 @@
 
 ![Result-Sample](https://github.com/user-attachments/assets/a83a1e0b-a9ec-4cc8-a9c6-5eeed8f5e3b6)
 
-- ### 項目使用的相關模組與元件請參考BomPicture內
+- ### 項目使用的相關模組與元件請參考BomPicture內[BomPicture](https://github.com/JourdanLin/ComMonitor/tree/89dbd9b4c173ee31d11306e7b64c815685d62aa5/BomPicture)
 - ### 使用的相關語言程式請參考相對的folder內:
   #### Arduino Mega2560 主程式: [ArduinoCode for Mega2560](https://github.com/JourdanLin/ComMonitor/tree/2bf0a32ec30a7a59695011f203a120077992d991/ArduinoCode%20for%20Mega2560)
   
