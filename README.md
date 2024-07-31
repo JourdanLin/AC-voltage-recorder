@@ -3,8 +3,7 @@
 ![Result-Sample](https://github.com/user-attachments/assets/a83a1e0b-a9ec-4cc8-a9c6-5eeed8f5e3b6)
 
 - ### 電路圖:![電路邏輯圖](https://github.com/JourdanLin/ComMonitor/blob/4543f4ea4cede84f2ed74309bb82859018cb21ec/BomPicture/dia.jpg)
-- ### 外觀:![1](https://github.com/JourdanLin/ComMonitor/blob/f248e09a148320f9f08c2e2df79c307fd0a85255/BomPicture/outline2.jpg)
--          ![2](https://github.com/JourdanLin/ComMonitor/blob/f248e09a148320f9f08c2e2df79c307fd0a85255/BomPicture/outline1.jpg)
+- ### 外觀:![1](https://github.com/JourdanLin/ComMonitor/blob/f248e09a148320f9f08c2e2df79c307fd0a85255/BomPicture/outline2.jpg)![2](https://github.com/JourdanLin/ComMonitor/blob/f248e09a148320f9f08c2e2df79c307fd0a85255/BomPicture/outline1.jpg)
 - ### 項目使用到的模組與元件:[BomPicture](https://github.com/JourdanLin/ComMonitor/tree/89dbd9b4c173ee31d11306e7b64c815685d62aa5/BomPicture)
 - ### 項目使用到的語言程式:
   #### Arduino Mega2560 主程式: [ArduinoCode for Mega2560](https://github.com/JourdanLin/ComMonitor/tree/2bf0a32ec30a7a59695011f203a120077992d991/ArduinoCode%20for%20Mega2560)
